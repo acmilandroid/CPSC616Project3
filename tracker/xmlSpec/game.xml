@@ -1,0 +1,199 @@
+<?xml version = "1.0"?>
+<GameData>
+<!-- screenTitle is also used to identify you and your animation. 
+     So make sure to include your name as part of the screenTitle -->
+<title>Basil Lin</title>
+<maxStringSize>50</maxStringSize>
+
+<frameCapOn>true</frameCapOn>
+<period>17</period>
+
+<maxFrames>300</maxFrames>
+<username>malloy</username>
+
+<view>
+  <width>854</width>
+  <height>480</height>
+  <loc x="30" y="30"/>
+</view>
+
+<world>
+  <width>4000</width>
+  <height>1080</height>
+</world>
+
+<sky>
+  <file>assets/sky.jpg</file>
+  <factor>3</factor>
+  <transparency>false</transparency>
+</sky>
+
+<flying>
+  <file>assets/back2.png</file>
+  <factor>2</factor>
+  <transparency>true</transparency>
+</flying>
+
+<cloud>
+  <file>assets/clouds.png</file>
+  <factor>1</factor>
+  <transparency>true</transparency>
+</cloud>
+
+<font name="font">
+  <file>fonts/arial.ttf</file>
+  <size>24</size>
+  <red>255</red>
+  <green>255</green>
+  <blue>0</blue>
+  <alpha>0</alpha>
+</font>
+
+<SpinningStar>
+  <file>assets/stars.png</file>
+  <startLoc x="50" y="140"/>
+  <frames>4</frames>
+  <frameInterval>50</frameInterval>
+  <speedX>200</speedX>
+  <speedY>200</speedY>
+  <transparency>true</transparency>
+</SpinningStar>
+
+<PigeonSlow>
+  <file>assets/pigeon.png</file>
+  <startLoc x="227" y="240"/>
+  <frames>4</frames>
+  <frameInterval>168</frameInterval>
+  <speedX>50</speedX>
+  <speedY>50</speedY>
+  <transparency>true</transparency>
+</PigeonSlow>
+
+<PigeonSlowLeft>
+  <file>assets/pigeonLeft.png</file>
+  <startLoc x="227" y="240"/>
+  <frames>4</frames>
+  <frameInterval>168</frameInterval>
+  <speedX>50</speedX>
+  <speedY>50</speedY>
+  <transparency>true</transparency>
+</PigeonSlowLeft>
+
+<PigeonSlow2>
+  <file>assets/pigeon.png</file>
+  <startLoc x="282" y="184"/>
+  <frames>4</frames>
+  <frameInterval>168</frameInterval>
+  <speedX>100</speedX>
+  <speedY>50</speedY>
+  <transparency>true</transparency>
+</PigeonSlow2>
+
+<PigeonSlow2Left>
+  <file>assets/pigeonLeft.png</file>
+  <startLoc x="282" y="184"/>
+  <frames>4</frames>
+  <frameInterval>168</frameInterval>
+  <speedX>100</speedX>
+  <speedY>50</speedY>
+  <transparency>true</transparency>
+</PigeonSlow2Left>
+
+
+<Pigeon>
+  <file>assets/pigeon.png</file>
+  <startLoc x="29" y="193"/>
+  <frames>4</frames>
+  <frameInterval>168</frameInterval>
+  <speedX>400</speedX>
+  <speedY>200</speedY>
+  <transparency>true</transparency>
+</Pigeon>
+
+<PigeonLeft>
+  <file>assets/pigeonLeft.png</file>
+  <startLoc x="29" y="193"/>
+  <frames>4</frames>
+  <frameInterval>168</frameInterval>
+  <speedX>400</speedX>
+  <speedY>200</speedY>
+  <transparency>true</transparency>
+</PigeonLeft>
+
+<PlaneBig>
+  <file>assets/747.png</file>
+  <startLoc x="800" y="800"/>
+  <frames>1</frames>
+  <frameInterval>1503</frameInterval>
+  <speedX>900</speedX>
+  <speedY>100</speedY>
+  <transparency>true</transparency>
+</PlaneBig>
+
+<PlaneBigLeft>
+  <file>assets/747Left.png</file>
+  <startLoc x="800" y="800"/>
+  <frames>1</frames>
+  <frameInterval>1503</frameInterval>
+  <speedX>900</speedX>
+  <speedY>100</speedY>
+  <transparency>true</transparency>
+</PlaneBigLeft>
+
+<PlaneMedium>
+  <file>assets/jetliner.png</file>
+  <startLoc x="300" y="300"/>
+  <frames>1</frames>
+  <frameInterval>512</frameInterval>
+  <speedX>900</speedX>
+  <speedY>10</speedY>
+  <transparency>false</transparency>
+</PlaneMedium>
+
+<PlaneMediumLeft>
+  <file>assets/jetlinerLeft.png</file>
+  <startLoc x="300" y="300"/>
+  <frames>1</frames>
+  <frameInterval>512</frameInterval>
+  <speedX>900</speedX>
+  <speedY>10</speedY>
+  <transparency>false</transparency>
+</PlaneMediumLeft>
+
+<PlaneSmall>
+  <file>assets/smallplane.png</file>
+  <startLoc x="10" y="10"/>
+  <frames>1</frames>
+  <frameInterval>750</frameInterval>
+  <speedX>500</speedX>
+  <speedY>75</speedY>
+  <transparency>false</transparency>
+</PlaneSmall>
+
+<PlaneSmallLeft>
+  <file>assets/smallplaneLeft.png</file>
+  <startLoc x="500" y="100"/>
+  <frames>1</frames>
+  <frameInterval>750</frameInterval>
+  <speedX>500</speedX>
+  <speedY>75</speedY>
+  <transparency>false</transparency>
+</PlaneSmallLeft>
+
+<Cloud>
+  <file>assets/cloud.png</file>
+  <startLoc x="450" y="20"/>
+  <speedX>200</speedX>
+  <speedY>20</speedY>
+  <transparency>true</transparency>
+</Cloud>
+
+<Cloud2>
+  <file>assets/cloud2.png</file>
+  <startLoc x="800" y="300"/>
+  <speedX>100</speedX>
+  <speedY>30</speedY>
+  <transparency>true</transparency>
+</Cloud2>
+
+</GameData>
